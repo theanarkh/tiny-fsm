@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-tiny-fsm",
+  "version": "1.0.0",
+  "description": "小型的有限状态机框架，用于解析长连接（比如tcp、unix域）上自定义的应用层协议",
+  "main": "tiny-fsm.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theanarkh/tiny-fsm.git"
+  },
+  "keywords": [
+    "fsm"
+  ],
+  "author": "gc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theanarkh/tiny-fsm/issues"
+  },
+  "homepage": "https://github.com/theanarkh/tiny-fsm#readme"
+}
